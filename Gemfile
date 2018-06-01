@@ -11,7 +11,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
-gem 'bulma-rails', '~> 0.0.4.1'
+gem "bulma-rails", "~> 0.7.1"
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'devise', '~> 4.4', '>= 4.4.3'
